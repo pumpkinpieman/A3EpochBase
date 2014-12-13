@@ -1,5 +1,6 @@
 if (isServer) then {
 
+_vehicle_10 = objNull;
 if (true) then
 {
 	_this = createVehicle ["Land_HBarrierBig_F", [23565.727, 18799.27, -1.9073486e-006], [], 0, "CAN_COLLIDE"];
